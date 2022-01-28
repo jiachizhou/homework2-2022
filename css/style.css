@@ -43,24 +43,21 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 3px;
-    border-left-width: 10px;
+    border-width: 0px 0px 3px 10px;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-bottom-width: 3px;
-    border-left-width: 10px;
+    border-width: 0px 10px 3px 0px;
 }
 
 .yellow{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 3px;
-    border-left-width: 10px;
+    border-width: 0px 0px 3px 10px;
 }
 
 .yellow h2{
@@ -76,8 +73,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 10px;
-    border-bottom-width: 3px;
+    border-width: 0px 10px 3px 0px;
+
 }
 
 span {
